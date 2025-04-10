@@ -176,3 +176,17 @@ footer{
     text-align: center;
     font-family: "Oswald", sans-serif;
 }
+.esta-cosa{
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+.esta-cosa img {
+  margin: 10px;
+  width: 500px;
+  border-radius: 15px;
+}
+.esta-cosa p {
+  color: rgb(0, 0, 0);
+  font-size: 23px;
+}
